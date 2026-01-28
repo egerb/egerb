@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img alt="Maksym's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=egerb&show_icons=true&theme=transparent"/>
 <!--
 **egerb/egerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
