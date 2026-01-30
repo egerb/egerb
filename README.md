@@ -14,8 +14,8 @@ Me centro en **resultados reales**, **arquitectura limpia** y **entregas rápida
 [![LinkedIn](https://img.shields.io/badge/ihor-kharchenko-es?logo=linkedin&logoColor=white)](https://linkedin.com/in/ihor-kharchenko-es)
 
 
-## Top Technologies
-## Tecnologías principales
+## 🔧 Technologies
+## 🔧 Tecnologías principales
 
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
@@ -43,6 +43,33 @@ Me centro en **resultados reales**, **arquitectura limpia** y **entregas rápida
 ![VPS](https://img.shields.io/badge/VPS-000?logo=linux)
 ![GCC](https://img.shields.io/badge/GCC-000?logo=gnu)
 
+## 🔧 Technologies
+
+### 🖥️ Backend
+- **PHP** — Laravel, Symfony, CodeIgniter  
+- **Java** — Spring Boot  
+- **Go**  
+- **Node.js**  
+- **Lua**
+
+### 🎨 Frontend
+- **JavaScript**  
+- **Vue.js**
+
+### 🧩 CMS & E-commerce
+- **WordPress**  
+- **Joomla**  
+- **OpenCart**
+
+### 🗄️ Databases
+- **MySQL**  
+- **PostgreSQL**
+
+### ☁️ DevOps & Infrastructure
+- **Docker**  
+- **AWS**  
+- **VPS (Linux)**  
+- **GCC**
 
 
 
